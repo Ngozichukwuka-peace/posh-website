@@ -113,7 +113,7 @@ div p.intro{
 }
 .showcase{
    margin: auto;
-   background-image: url(showcase-01.jpg);
+   background-image: url(/images/showcase-01.jpg);
    width: 90%;
    height: auto;
    background-size: cover;
