@@ -1,3 +1,6 @@
+# NGOZICHUKWUKA PEACE HTML/CSS ASSIGNMENT
+# CSS GRID AND FLOAT
+
 CSS Grid is a modern CSS layout system that allows developers to arrange elements into rows and columns. It can be compared to a table because a table also has rows and columns. With Grid, a developer can decide how many columns or rows a webpage should have and how much space each one should occupy. This makes it easier to create an organized webpage without having to manually position every element.
 For example, a website may have a header at the top, a large section in the middle, and a sidebar beside it. CSS Grid can be used to arrange these sections neatly. It can also create spaces between different elements, making the website look cleaner and easier to use. Another important advantage of Grid is that it can be used to create responsive websites. This means that the layout can adjust when the website is viewed on different devices, such as computers, tablets, and mobile phones.
 Float is an older CSS property that was originally created mainly to allow text to flow around images. For example, when reading an article online, an image may appear on the left while the text flows around the right side of the image. Float can be used to achieve this effect. An image can also be floated to the right, allowing the text to appear on the left.
